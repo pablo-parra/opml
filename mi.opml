@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Mis Suscripciones RSS</title>
+  </head>
+  <body>
+    <outline text="Suscripciones" title="Suscripciones">
+      <outline type="rss" text="Juan Soto Ivars" title="Juan Soto Ivars" xmlUrl="https://rss.elconfidencial.com/autores/juan-soto-ivars-203/"/>
+      <outline type="rss" text="Permanent Style" title="Permanent Style" xmlUrl="http://www.permanentstyle.co.uk/feeds/posts/default"/>
+      <outline type="rss" text="Julio Basulto" title="Julio Basulto" xmlUrl="https://juliobasulto.com/feed/"/>
+      <outline type="rss" text="Dime que comes" title="Dime que comes" xmlUrl="http://www.dimequecomes.com/feeds/posts/default"/>
+      <outline type="rss" text="Thinktastik (Blogspot)" title="Thinktastik (Blogspot)" xmlUrl="https://thinktastik.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline type="rss" text="Thinktastik (WordPress)" title="Thinktastik (WordPress)" xmlUrl="https://thinktastik.home.blog/feed/"/>
+      <outline type="rss" text="Las siestas de Sergio" title="Las siestas de Sergio" xmlUrl="http://lassiestasdesergio.blogspot.com/feeds/posts/default"/>
+      <outline type="rss" text="Evergoods" title="Evergoods" xmlUrl="https://evergoods.us/blogs/evergoods-road-to-launch.atom"/>
+      <outline type="rss" text="Bonillaware" title="Bonillaware" xmlUrl="http://feeds.feedburner.com/Bonillaware"/>
+      <outline type="rss" text="Monrasin" title="Monrasin" xmlUrl="https://monrasin.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline type="rss" text="Política Menor" title="Política Menor" xmlUrl="http://politicamenor.blogspot.com/feeds/posts/default"/>
+      <outline type="rss" text="Javi Santana" title="Javi Santana" xmlUrl="http://javisantana.com/feed.xml"/>
+      <outline type="rss" text="Rootrun" title="Rootrun" xmlUrl="https://rootrun.blogspot.com/feeds/posts/default"/>
+      <outline type="rss" text="Gelateria Aprica" title="Gelateria Aprica" xmlUrl="http://gelateriaaprica.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline type="rss" text="Blog Alpe d'Huez" title="Blog Alpe d'Huez" xmlUrl="https://blogalpedhuez.wordpress.wordpress.com/feed/"/>
+      <outline type="rss" text="Atareao" title="Atareao" xmlUrl="https://www.atareao.es/feed/"/>
+      <outline type="rss" text="Biziosona" title="Biziosona" xmlUrl="https://www.biziosona.com/feed/"/>
+    </outline>
+  </body>
+</opml>
