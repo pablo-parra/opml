@@ -5,25 +5,23 @@
   </head>
   <body>
     <outline text="Suscripciones" title="Suscripciones">
-      <outline type="rss" text="Juan Soto Ivars" title="Juan Soto Ivars" xmlUrl="https://rss.elconfidencial.com/autores/juan-soto-ivars-203/"/>
-      <outline type="rss" text="Permanent Style" title="Permanent Style" xmlUrl="http://www.permanentstyle.co.uk/feeds/posts/default"/>
-      <outline type="rss" text="Julio Basulto" title="Julio Basulto" xmlUrl="https://juliobasulto.com/feed/"/>
-      <outline type="rss" text="Dime que comes" title="Dime que comes" xmlUrl="http://www.dimequecomes.com/feeds/posts/default"/>
-      <outline type="rss" text="Thinktastik (Blogspot)" title="Thinktastik (Blogspot)" xmlUrl="https://thinktastik.blogspot.com/feeds/posts/default?alt=rss"/>
-      <outline type="rss" text="Thinktastik (WordPress)" title="Thinktastik (WordPress)" xmlUrl="https://thinktastik.home.blog/feed/"/>
-      <outline type="rss" text="Las siestas de Sergio" title="Las siestas de Sergio" xmlUrl="http://lassiestasdesergio.blogspot.com/feeds/posts/default"/>
-      <outline type="rss" text="Evergoods" title="Evergoods" xmlUrl="https://evergoods.us/blogs/evergoods-road-to-launch.atom"/>
-      <outline type="rss" text="Bonillaware" title="Bonillaware" xmlUrl="http://feeds.feedburner.com/Bonillaware"/>
-      <outline type="rss" text="Monrasin" title="Monrasin" xmlUrl="https://monrasin.blogspot.com/feeds/posts/default?alt=rss"/>
-      <outline type="rss" text="Política Menor" title="Política Menor" xmlUrl="http://politicamenor.blogspot.com/feeds/posts/default"/>
-      <outline type="rss" text="Javi Santana" title="Javi Santana" xmlUrl="http://javisantana.com/feed.xml"/>
-      <outline type="rss" text="Rootrun" title="Rootrun" xmlUrl="https://rootrun.blogspot.com/feeds/posts/default"/>
-      <outline type="rss" text="Gelateria Aprica" title="Gelateria Aprica" xmlUrl="http://gelateriaaprica.blogspot.com/feeds/posts/default?alt=rss"/>
-      <outline type="rss" text="Blog Alpe d'Huez" title="Blog Alpe d'Huez" xmlUrl="https://blogalpedhuez.wordpress.com/feed/"/>
-      <outline type="rss" text="Atareao" title="Atareao" xmlUrl="https://www.atareao.es/feed/"/>
-      <outline type="rss" text="Ciclismo2005" title="Ciclismo2005" xmlUrl="https://ciclismo2005.com/feed/"/>
-      <outline type="rss" text="Alberto Olmos" title="Alberto Olmos" xmlUrl="https://www.elconfidencial.com/autores/alberto-olmos-1137/"/>
-      <outline type="rss" text="Rubén Arranz" title="Rubén Arranz" xmlUrl="https://www.elconfidencial.com/autores/ruben-arranz-6129/"/>
+    <outline htmlUrl="https://www.atareao.es/feed/" text="Atareao" title="Atareao" type="rss" xmlUrl="https://www.atareao.es/feed/"/>
+    <outline htmlUrl="https://blogalpedhuez.wordpress.com/feed/" text="Blog Alpe d'Huez" title="Blog Alpe d'Huez" type="rss" xmlUrl="https://blogalpedhuez.wordpress.com/feed/"/>
+    <outline htmlUrl="http://feeds.feedburner.com/Bonillaware" text="Bonillaware" title="Bonillaware" type="rss" xmlUrl="http://feeds.feedburner.com/Bonillaware"/>
+    <outline htmlUrl="http://www.dimequecomes.com/feeds/posts/default" text="Dime que comes" title="Dime que comes" type="rss" xmlUrl="http://www.dimequecomes.com/feeds/posts/default"/>
+    <outline htmlUrl="https://evergoods.us/blogs/evergoods-road-to-launch.atom" text="Evergoods" title="Evergoods" type="rss" xmlUrl="https://evergoods.us/blogs/evergoods-road-to-launch.atom"/>
+    <outline htmlUrl="http://gelateriaaprica.blogspot.com/feeds/posts/default?alt=rss" text="Gelateria Aprica" title="Gelateria Aprica" type="rss" xmlUrl="http://gelateriaaprica.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline htmlUrl="https://www.eldiario.es/autores/inigo_saenz_de_ugarte/" text="Iñigo Saenz de Ugarge" title="Iñigo Saenz de Ugarge" type="rss" xmlUrl="https://www.eldiario.es/rss/category/author/520003/"/>
+    <outline htmlUrl="http://javisantana.com/feed.xml" text="Javi Santana" title="Javi Santana" type="rss" xmlUrl="http://javisantana.com/feed.xml"/>
+    <outline htmlUrl="https://rss.elconfidencial.com/autores/juan-soto-ivars-203/" text="Juan Soto Ivars" title="Juan Soto Ivars" type="rss" xmlUrl="https://rss.elconfidencial.com/autores/juan-soto-ivars-203/"/>
+    <outline htmlUrl="https://juliobasulto.com/feed/" text="Julio Basulto" title="Julio Basulto" type="rss" xmlUrl="https://juliobasulto.com/feed/"/>
+    <outline htmlUrl="http://lassiestasdesergio.blogspot.com/feeds/posts/default" text="Las siestas de Sergio" title="Las siestas de Sergio" type="rss" xmlUrl="http://lassiestasdesergio.blogspot.com/feeds/posts/default"/>
+    <outline htmlUrl="https://monrasin.blogspot.com/feeds/posts/default?alt=rss" text="Monrasin" title="Monrasin" type="rss" xmlUrl="https://monrasin.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline htmlUrl="http://www.permanentstyle.co.uk/feeds/posts/default" text="Permanent Style" title="Permanent Style" type="rss" xmlUrl="https://www.permanentstyle.com/feed"/>
+    <outline htmlUrl="http://politicamenor.blogspot.com/feeds/posts/default" text="Política Menor" title="Política Menor" type="rss" xmlUrl="http://politicamenor.blogspot.com/feeds/posts/default"/>
+    <outline htmlUrl="https://rootrun.blogspot.com/feeds/posts/default" text="Rootrun" title="Rootrun" type="rss" xmlUrl="https://rootrun.blogspot.com/feeds/posts/default"/>
+    <outline htmlUrl="https://thinktastik.blogspot.com/feeds/posts/default?alt=rss" text="Thinktastik (Blogspot)" title="Thinktastik (Blogspot)" type="rss" xmlUrl="https://thinktastik.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline htmlUrl="https://thinktastik.home.blog/feed/" text="Thinktastik (WordPress)" title="Thinktastik (WordPress)" type="rss" xmlUrl="https://thinktastik.home.blog/feed/"/>
     </outline>
   </body>
 </opml>
