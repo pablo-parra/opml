@@ -6,6 +6,7 @@
   <body>
     <outline text="Suscripciones" title="Suscripciones">
     <outline htmlUrl="https://www.atareao.es/feed/" text="Atareao" title="Atareao" type="rss" xmlUrl="https://www.atareao.es/feed/"/>
+    <outline htmlUrl="https://aytosagunto.es/es/agenda/" text="Ayuntamiento de Sagunto (Agenda)" title="Ayuntamiento de Sagunto (Agenda)" type="rss" xmlUrl="https://aytosagunto.es/es/agenda/rss/"/>
     <outline htmlUrl="https://blogalpedhuez.wordpress.com/feed/" text="Blog Alpe d'Huez" title="Blog Alpe d'Huez" type="rss" xmlUrl="https://blogalpedhuez.wordpress.com/feed/"/>
     <outline htmlUrl="http://feeds.feedburner.com/Bonillaware" text="Bonillaware" title="Bonillaware" type="rss" xmlUrl="http://feeds.feedburner.com/Bonillaware"/>
     <outline htmlUrl="http://www.dimequecomes.com/feeds/posts/default" text="Dime que comes" title="Dime que comes" type="rss" xmlUrl="http://www.dimequecomes.com/feeds/posts/default"/>
