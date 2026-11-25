@@ -6,6 +6,8 @@
   <body>
     <outline text="Suscripciones" title="Suscripciones">
     <outline htmlUrl="https://www.atareao.es/feed/" text="Atareao" title="Atareao" type="rss" xmlUrl="https://www.atareao.es/feed/"/>
+    <outline htmlUrl="https://benifairovalls.com/" text="Ayuntamiento de Benifairó de les Valls" title="Ayuntamiento de Benifairó de les Valls" type="rss" xmlUrl="https://benifairovalls.com/feed/"/>
+    <outline htmlUrl="https://www.canetdenberenguer.es/" text="Ayuntamiento de Canet d'en Berenguer" title="Ayuntamiento de Canet d'en Berenguer" type="rss" xmlUrl="https://www.canetdenberenguer.es/rss.xml"/>
     <outline htmlUrl="https://aytosagunto.es/es/agenda/" text="Ayuntamiento de Sagunto (Agenda)" title="Ayuntamiento de Sagunto (Agenda)" type="rss" xmlUrl="https://aytosagunto.es/es/agenda/rss/"/>
     <outline htmlUrl="https://blogalpedhuez.wordpress.com/feed/" text="Blog Alpe d'Huez" title="Blog Alpe d'Huez" type="rss" xmlUrl="https://blogalpedhuez.wordpress.com/feed/"/>
     <outline htmlUrl="http://feeds.feedburner.com/Bonillaware" text="Bonillaware" title="Bonillaware" type="rss" xmlUrl="http://feeds.feedburner.com/Bonillaware"/>
